@@ -1,0 +1,21 @@
+.akapity
+{
+	margin-left: 5%;
+	margin-right: 5%;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	border-top: 3px solid black;
+	border-bottom: 3px solid black;
+	border-right: 3px solid black;
+	border-left: 3px solid black;
+	width: 100%;
+}
+
+.naglowki
+{
+	border-top: 5px solid blue;
+	border-bottom: 5px solid blue;
+	border-right: 5px solid blue;
+	border-left: 5px solid blue;
+	width: 100%;
+}
