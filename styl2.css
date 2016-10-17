@@ -11,17 +11,4 @@
 	}
 }
 
-@media screen and (max-device-width: 1024px) /* Ten media quary odtwarza się przy max szerokości 1025px */
-{
-	.akapity
-	{
-		background-color: green;
-		color: blue;
-	}
-	
-	.naglowki
-	{
-		background-color: red;
-		color: white;
-	}
-}
+
