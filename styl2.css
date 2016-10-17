@@ -1,4 +1,4 @@
-@media screen and (max-device-width: 721px) /* Ten media quary odtwarza się przy max szerokości 721px */
+@media screen and (max-device-width: 720px) /* Ten media quary odtwarza się przy max szerokości 721px */
 {
 	.akapity
 	{
@@ -11,7 +11,7 @@
 	}
 }
 
-@media screen and (max-device-width: 1025px) /* Ten media quary odtwarza się przy max szerokości 1025px */
+@media screen and (max-device-width: 1024px) /* Ten media quary odtwarza się przy max szerokości 1025px */
 {
 	.akapity
 	{
