@@ -1,4 +1,4 @@
-@media screen and (device-width: 320px) and (orientation: portrait) /*Ten media query obsługuje ekran iPhone 5 w orientacji pionowej.*/
+@media screen and (device-width: 360px) and (orientation: portrait) /*Ten media query obsługuje ekran iPhone 5 w orientacji pionowej.*/
 {
 	.akapity
 	{
@@ -11,7 +11,7 @@
 	}
 }
 
-@media screen and (device-width: 568px) and (orientation: landscape) /*Ten media query obsługuje ekran iPhone 5 w orientacji poziomej.*/
+@media screen and (device-width: 640px) and (orientation: landscape) /*Ten media query obsługuje ekran iPhone 5 w orientacji poziomej.*/
 {
 	.akapity
 	{
