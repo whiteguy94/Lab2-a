@@ -11,4 +11,14 @@
 	}
 }
 
-
+@media screen and (max-device-width: 720px)
+{
+	.akapity
+	{
+		background-color: green;
+	}
+	.naglowki
+	{
+		background-color: red;
+	}
+}
