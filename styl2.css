@@ -1,25 +1,43 @@
-@media screen and (max-device-width: 640px) and (orientation: portrait)
+@media screen and (max-device-width: 640px) and (orientation: portrait) /*Ten media query obsługuje urządzenia o szerokości ekranu 640px i orientacji pionowej.*/
 {
 	.akapity
 	{
+	width: 60%;
 	background-color: aqua;
 	}
 	
 	.naglowki
 	{
+	width: 60%;
 	background-color: lightblue;
 	}
 }
 
-@media screen and (max-device-width: 640px) and (orientation: landscape)
+@media screen and (max-device-width: 640px) and (orientation: landscape) /*Ten media query obsługuje urządzenia o szerokości ekranu 640px i orientacji poziomej.*/
 {
 	.akapity
 	{
+	width: 80%;
 	background-color: green;
 	}
 	
 	.naglowki
 	{
+	width: 80%;
 	background-color: red;
+	}
+}
+
+@media screen and (max-device-width: 768px) and (orientation: portrait)
+{
+	.akapity
+	{
+	width: 80%;
+	background-color: yellow;
+	}
+	.naglowki
+	{
+	width: 80%;
+	background-color: gray;
 	}
 }
