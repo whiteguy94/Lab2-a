@@ -23,3 +23,31 @@
 	background-color: red;
 	}
 }
+
+@media screen and (device-width: 375px) and (orientation: portrait) /*Ten media query obsługuje ekran iPhone 5 w orientacji pionowej.*/
+{
+	.akapity
+	{
+	text-align: center;
+	background-color: aqua;
+	}
+	
+	.naglowki
+	{
+	text-align: center;
+	background-color: lightblue;
+	}
+}
+
+@media screen and (device-width: 667px) and (orientation: landscape) /*Ten media query obsługuje ekran iPhone 5 w orientacji pionowej.*/
+{
+	.akapity
+	{
+	background-color: aqua;
+	}
+	
+	.naglowki
+	{
+	background-color: lightblue;
+	}
+}
