@@ -24,7 +24,7 @@
 	}
 }
 
-@media screen and (device-width: 375px) and (orientation: portrait) /*Ten media query obsługuje ekran iPhone 5 w orientacji pionowej.*/
+@media screen and (device-width: 375px) and (orientation: portrait) /*Ten media query obsługuje ekran iPhone 6 w orientacji pionowej.*/
 {
 	.akapity
 	{
@@ -39,15 +39,19 @@
 	}
 }
 
-@media screen and (device-width: 667px) and (orientation: landscape) /*Ten media query obsługuje ekran iPhone 5 w orientacji pionowej.*/
+@media screen and (device-width: 667px) and (orientation: landscape) /*Ten media query obsługuje ekran iPhone 6 w orientacji pionowej.*/
 {
 	.akapity
 	{
+	width: auto;
+	text-align: center;
 	background-color: aqua;
 	}
 	
 	.naglowki
 	{
+	width: auto;
+	text-align: center;
 	background-color: lightblue;
 	}
 }
