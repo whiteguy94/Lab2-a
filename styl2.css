@@ -1,4 +1,4 @@
-@media screen and (device-width: 360px) and (device-height: 640px)
+@media screen and (device-width: 360px)
 {
 	.akapity
 	{
@@ -11,7 +11,7 @@
 	}
 }
 
-@media screen and (device-width: 640px) and (device-height: 360px)
+@media screen and (device-width: 640px)
 {
 	.akapity
 	{
