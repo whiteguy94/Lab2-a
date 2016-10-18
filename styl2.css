@@ -2,11 +2,13 @@
 {
 	.akapity
 	{
+	height: auto;
 	background-color: aqua;
 	}
 	
 	.naglowki
 	{
+	height: auto;
 	background-color: lightblue;
 	}
 }
@@ -15,11 +17,13 @@
 {
 	.akapity
 	{
+	height: auto;
 	background-color: green;
 	}
 	
 	.naglowki
 	{
+	height: auto;
 	background-color: red;
 	}
 }
@@ -28,6 +32,7 @@
 {
 	.akapity
 	{
+	height: auto;
 	border: 10px solid yellow;
 	text-align: center;
 	background-color: aqua;
@@ -35,6 +40,7 @@
 	
 	.naglowki
 	{
+	height: auto;
 	border: 10px solid blue;
 	text-align: center;
 	background-color: lightblue;
@@ -45,6 +51,7 @@
 {
 	.akapity
 	{
+	height: auto;
 	width: 50%;
 	margin: auto;
 	text-align: center;
@@ -53,6 +60,7 @@
 	
 	.naglowki
 	{
+	height: auto;
 	width: 50%;
 	margin: auto;
 	text-align: center;
