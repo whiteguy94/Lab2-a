@@ -28,12 +28,14 @@
 {
 	.akapity
 	{
+	border: 10px solid yellow;
 	text-align: center;
 	background-color: aqua;
 	}
 	
 	.naglowki
 	{
+	border: 10px solid blue
 	text-align: center;
 	background-color: lightblue;
 	}
