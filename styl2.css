@@ -10,3 +10,11 @@
 	background-color: lightblue;
 	}
 }
+
+@media screen and (max-device-width: 720px) and (orientation: landscape)
+{
+	.akapity
+	{
+		background-color: green;
+	}
+}
