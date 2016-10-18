@@ -1,43 +1,33 @@
-@media screen and (device-width: 360px) and (orientation: portrait) /*Ten media query obsługuje urządzenia o szerokości ekranu 640px i orientacji pionowej.*/
+@media screen and (device-width: 320px) and (device-height: 568px) and (orientation: portrait) /*Ten media query obsługuje ekran iPhone 5 w orientacji pionowej.*/
 {
 	.akapity
 	{
+	margin: auto;
 	width: 60%;
 	background-color: aqua;
 	}
 	
 	.naglowki
 	{
+	margin: auto;
 	width: 60%;
 	background-color: lightblue;
 	}
 }
 
-@media screen and (device-width: 640px) and (orientation: landscape) /*Ten media query obsługuje urządzenia o szerokości ekranu 640px i orientacji poziomej.*/
+@media screen and (device-width: 568px) and (device-height: 320px) and (orientation: landscape) /*Ten media query obsługuje ekran iPhone 5 w orientacji poziomej.*/
 {
 	.akapity
 	{
-	width: 80%;
+	margin: auto;
+	width: 60%;
 	background-color: green;
 	}
 	
 	.naglowki
 	{
-	width: 80%;
+	margin: auto;
+	width: 60%;
 	background-color: red;
-	}
-}
-
-@media screen and (device-width: 1024px) and (orientation: portrait)
-{
-	.akapity
-	{
-	width: 80%;
-	background-color: yellow;
-	}
-	.naglowki
-	{
-	width: 80%;
-	background-color: gray;
 	}
 }
