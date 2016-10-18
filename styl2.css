@@ -1,4 +1,4 @@
-@media screen and (max-width: 640px) and (orientation: portrait) /*Ten media query obsługuje urządzenia o szerokości ekranu 640px i orientacji pionowej.*/
+@media screen and (max-width: 360px) and (orientation: portrait) /*Ten media query obsługuje urządzenia o szerokości ekranu 640px i orientacji pionowej.*/
 {
 	.akapity
 	{
