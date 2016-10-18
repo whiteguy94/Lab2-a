@@ -2,17 +2,11 @@
 {
 	.akapity
 	{
-	width: 100%;
-	height: auto;
-	margin: auto;
 	background-color: aqua;
 	}
 	
 	.naglowki
 	{
-	width: 100%;
-	height: auto;
-	margin: auto;
 	background-color: lightblue;
 	}
 }
@@ -21,17 +15,11 @@
 {
 	.akapity
 	{
-	width: 100%;
-	height: auto;
-	margin: auto;
 	background-color: green;
 	}
 	
 	.naglowki
 	{
-	width: 100%;
-	height: auto;
-	margin: auto;
 	background-color: red;
 	}
 }
