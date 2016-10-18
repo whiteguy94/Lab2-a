@@ -1,4 +1,4 @@
-@media handheld and (min-width: 640px) /* Ten media quary odtwarza się przy max szerokości 721px */
+@media screen and (max-device-width: 1366px) /* Ten media quary odtwarza się przy max szerokości 721px */
 {
 	.akapity
 	{
@@ -8,17 +8,5 @@
 	.naglowki
 	{
 	background-color: lightblue;
-	}
-}
-
-@media handheld and (min-width: 1024px)
-{
-	.akapity
-	{
-		background-color: green;
-	}
-	.naglowki
-	{
-		background-color: red;
 	}
 }
