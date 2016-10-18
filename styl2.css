@@ -95,9 +95,15 @@
 {
 	.akapity
 	{
+	background-color: gray;
+	color: white;
+	text-align: center;
 	}
 	
 	.naglowki
 	{
+	background-color: gray;
+	color: white;
+	text-align: center;
 	}
 }
