@@ -13,7 +13,7 @@
 	}
 }
 
-@media screen and (max-device-height: 640px) and (orientation: landscape) /*Ten media query obsługuje urządzenia o szerokości ekranu 640px i orientacji poziomej.*/
+@media screen and (max-device-width: 640px) and (orientation: landscape) /*Ten media query obsługuje urządzenia o szerokości ekranu 640px i orientacji poziomej.*/
 {
 	.akapity
 	{
