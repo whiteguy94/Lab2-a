@@ -1,4 +1,4 @@
-@media screen and (max-device-width: 720px) and (orientation: portrait) /* Ten media quary odtwarza się przy max szerokości 721px */
+@media screen and (max-device-width: 640px) and (orientation: portrait) /* Ten media quary odtwarza się przy max szerokości 721px */
 {
 	.akapity
 	{
@@ -11,7 +11,7 @@
 	}
 }
 
-@media screen and (max-device-width: 720px) and (orientation: landscape)
+@media screen and (max-device-width: 640px) and (orientation: landscape)
 {
 	.akapity
 	{
