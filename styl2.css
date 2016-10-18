@@ -44,6 +44,7 @@
 	.akapity
 	{
 	width: 50%;
+	align: center;
 	text-align: center;
 	background-color: aqua;
 	}
@@ -51,6 +52,7 @@
 	.naglowki
 	{
 	width: 50%;
+	align: center;
 	text-align: center;
 	background-color: lightblue;
 	}
