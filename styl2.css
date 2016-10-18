@@ -1,4 +1,4 @@
-@media screen and (max-device-width: 360px) and (orientation: portrait) /* Ten media quary odtwarza się przy max szerokości 721px */
+@media screen and (device-width: 360px) and (device-height: 640px)
 {
 	.akapity
 	{
@@ -8,13 +8,5 @@
 	.naglowki
 	{
 	background-color: lightblue;
-	}
-}
-
-@media screen and (max-device-width: 1024px) and (orientation: landscape)
-{
-	.akapity
-	{
-		background-color: green;
 	}
 }
