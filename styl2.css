@@ -71,3 +71,33 @@
 	border: 4px solid green;
 	}
 }
+
+@media screen and (device-width: 640px) and (orientation: landscape)
+{
+	.akapity
+	{
+	background-color: black;
+	color: white;
+	border: 3px solid white;
+	text-align: right;
+	}
+	
+	.naglowki
+	{
+	background-color: black;
+	color: white;
+	border: 3px solid white;
+	text-align: left;
+	}
+}
+
+@media screen and (device-width: 360px) and (orientation: portrait)
+{
+	.akapity
+	{
+	}
+	
+	.naglowki
+	{
+	}
+}
