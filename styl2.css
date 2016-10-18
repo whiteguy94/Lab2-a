@@ -1,4 +1,4 @@
-@media screen and (max-device-width: 640px) and (orientation: portrait) /*Ten media query obsługuje urządzenia o szerokości ekranu 640px i orientacji pionowej.*/
+@media screen and (max-device-width: 360px) and (max-device-height: 640px) and (orientation: portrait) /*Ten media query obsługuje urządzenia o szerokości ekranu 640px i orientacji pionowej.*/
 {
 	.akapity
 	{
@@ -13,7 +13,7 @@
 	}
 }
 
-@media screen and (max-device-width: 640px) and (orientation: landscape) /*Ten media query obsługuje urządzenia o szerokości ekranu 640px i orientacji poziomej.*/
+@media screen and (max-device-width: 640px) and (max-device-height: 360px) and (orientation: landscape) /*Ten media query obsługuje urządzenia o szerokości ekranu 640px i orientacji poziomej.*/
 {
 	.akapity
 	{
@@ -28,7 +28,7 @@
 	}
 }
 
-@media screen and (max-device-width: 768px) and (orientation: portrait)
+@media screen and (max-device-width: 768px) and (max-device-height: 1024px) and (orientation: portrait)
 {
 	.akapity
 	{
