@@ -49,7 +49,7 @@
 	}
 }
 
-@media screen and (device-width: 667px) and (orientation: landscape) /*Ten media query obsługuje ekran iPhone 6 w orientacji pionowej.*/
+@media screen and (device-width: 667px) and (orientation: landscape) /*Ten media query obsługuje ekran iPhone 6 w orientacji poziomej.*/
 {
 	.akapity
 	{
