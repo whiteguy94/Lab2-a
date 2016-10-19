@@ -72,7 +72,7 @@
 	}
 }
 
-@media screen and (device-width: 640px) and (orientation: landscape)
+@media screen and (device-width: 640px) and (orientation: landscape) /* Ten media query obsługuje Motorole Moto G 1 w orientacji poziomej.*/
 {
 	.akapity
 	{
@@ -91,7 +91,7 @@
 	}
 }
 
-@media screen and (device-width: 360px) and (orientation: portrait)
+@media screen and (device-width: 360px) and (orientation: portrait) /* Ten media query obsługuje Motorole Moto G 1 w orientacji pionowej.*/
 {
 	.akapity
 	{
